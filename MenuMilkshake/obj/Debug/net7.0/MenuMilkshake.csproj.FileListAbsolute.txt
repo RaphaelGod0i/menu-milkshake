@@ -1,0 +1,15 @@
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\MenuMilkshake.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\MenuMilkshake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\MenuMilkshake.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\MenuMilkshake.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\MenuMilkshake.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\bin\Debug\net7.0\MenuMilkshake.exe
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\bin\Debug\net7.0\MenuMilkshake.deps.json
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\bin\Debug\net7.0\MenuMilkshake.runtimeconfig.json
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\bin\Debug\net7.0\MenuMilkshake.dll
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\bin\Debug\net7.0\MenuMilkshake.pdb
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\MenuMilkshake.dll
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\refint\MenuMilkshake.dll
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\MenuMilkshake.pdb
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\MenuMilkshake.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\MenuMilkshake\MenuMilkshake\obj\Debug\net7.0\ref\MenuMilkshake.dll
